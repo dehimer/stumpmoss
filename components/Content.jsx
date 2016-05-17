@@ -3,7 +3,9 @@ import React from 'react';
 export default class Content extends React.Component {
 	render() {
 		return (
-			<div style={{backgroundColor:'yellow'}}>Content</div>
+			<div className="container">
+				Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text 
+			</div>
 		);
 	}
 }
